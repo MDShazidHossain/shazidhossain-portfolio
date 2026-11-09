@@ -1,0 +1,12 @@
+Extracted assets from shazid hossain update cv.pdf:
+- page1_image1.png: CV page 1, image 1, 253x252
+- page1_image2.png: CV page 1, image 2, 324x324
+- page4_image1.jpeg: CV page 4, image 1, 702x702
+- page4_image2.jpeg: CV page 4, image 2, 615x615
+- page4_image3.jpeg: CV page 4, image 3, 615x615
+- page4_image4.jpeg: CV page 4, image 4, 615x615
+- page4_image5.jpeg: CV page 4, image 5, 615x615
+- page5_image1.jpeg: CV page 5, image 1, 540x540
+- page5_image2.jpeg: CV page 5, image 2, 372x461
+- page5_image3.jpeg: CV page 5, image 3, 464x576
+- page5_image4.png: CV page 5, image 4, 464x576
